@@ -5,3 +5,5 @@ This program uses a combination of Max(MSP), Javascript, Python, and MaxPy, a Py
 I break down the MaxPy code for this project in the YouTube video below.
 ## [Using Replace() function with MaxPy](https://www.youtube.com/watch?v=RgYRqXn8Z6o&ab_channel=SatchelPeterson)
 [![Using Replace() function with MaxPy](https://img.youtube.com/vi/RgYRqXn8Z6o/0.jpg)](https://youtu.be/RgYRqXn8Z6o)
+
+If you want to follow along with the video or test this out on your own, feel free to download the files in this repository and head over to the [MaxPy repository](https://github.com/Barnard-PL-Labs/MaxPy) and follow the instructions for setting up MaxPy on your environment. 
